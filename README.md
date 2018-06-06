@@ -34,3 +34,4 @@ Deberás crear un **álbum fotográfico** construido con [Bootstrap](http://getb
 - Luego debes enviar los cambios (vía push) y subir el link del repositorio a la sección correspondiente en la [Plataforma Empieza](https://empieza.desafiolatam.com "Desafío Latam").
 
 Mucha suerte!# experiencia-presencial-7
+# experiencia-presencial-7
